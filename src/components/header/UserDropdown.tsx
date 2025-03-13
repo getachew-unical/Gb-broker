@@ -31,7 +31,7 @@ export default function UserDropdown() {
         </span>
 
         <span className="block mr-1 font-medium text-theme-sm">
-          Adey-Utility
+          User
         </span>
 
         <svg
@@ -61,10 +61,10 @@ export default function UserDropdown() {
       >
         <div>
           <span className="block font-medium text-gray-700 text-theme-sm dark:text-gray-400">
-          Adey-Utility
+          User1
           </span>
           <span className="mt-0.5 block text-theme-xs text-gray-500 dark:text-gray-400">
-          daniel.melesse@adey-meselesh.de
+          getachew.hk1@gmail.com
           </span>
         </div>
 
