@@ -1,8 +1,8 @@
 import SignUpForm from "@/components/auth/SignUpForm";
-import GridShape from "@/components/common/GridShape";
+// import GridShape from "@/components/common/GridShape";
 import { Metadata } from "next";
-import Image from "next/image";
-import Link from "next/link";
+// import Image from "next/image";
+// import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Next.js SignUp Page | TailAdmin - Next.js Dashboard Template",

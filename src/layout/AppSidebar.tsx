@@ -16,7 +16,7 @@ import {
   // BoxCubeIcon,
   // TableIcon,
   UserCircleIcon,
-  Cdp,
+  // Cdp,
 } from "../icons/index";
 import SidebarWidget from "./SidebarWidget";
 
