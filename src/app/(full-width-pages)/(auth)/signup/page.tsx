@@ -12,12 +12,12 @@ export const metadata: Metadata = {
 
 export default function SignUp() {
   return (
-    <div className="relative flex w-full h-screen overflow-hidden bg-white z-1 dark:bg-gray-900">
+    <div>
       <SignUpForm />
-      <div className="relative items-center justify-center flex-1 hidden p-8 z-1 bg-brand-950 dark:bg-white/5 lg:flex">
-        {/* <!-- ===== Common Grid Shape Start ===== --> */}
+      {/* <div className="relative items-center justify-center flex-1 hidden p-8 z-1 bg-brand-950 dark:bg-white/5 lg:flex">
+        
         <GridShape />
-        {/* <!-- ===== Common Grid Shape End ===== --> */}
+        
         <div className="flex flex-col items-center max-w-xs">
           <Link href="" className="block mb-4">
             <Image
@@ -31,7 +31,7 @@ export default function SignUp() {
             Free and Open-Source Tailwind CSS Admin Dashboard Template
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

@@ -16,7 +16,7 @@ export default function SidebarWidget() {
         href="https://adey-meselesh.de/"
         target="_blank"
         rel="nofollow"
-        className="flex items-center justify-center p-3 font-medium text-white rounded-lg bg-green-500 text-theme-sm hover:bg-brand-600"
+        className="flex items-center justify-center p-3 font-medium text-white rounded-lg bg-blue-400 text-theme-sm hover:bg-brand-600"
       >
         Adey-Meselesh
       </a>
